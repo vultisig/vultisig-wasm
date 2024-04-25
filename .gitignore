@@ -3,3 +3,4 @@ wasm_exec.js
 **/*.json
 **/*.dat
 **/*.go!
+**/.DS_Store
