@@ -1,1 +1,1 @@
-# Voltix TSS (WASM)
+# Vultisig TSS (WASM)
